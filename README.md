@@ -4,10 +4,12 @@ This is a MATLAB based repo to read a WhatsApp Chat Transcript and plot word Clo
 
 ## Getting Started
 
-Clone/Download the M-file
+1. Download your WhatsApp Chat transcript following [WhatsApp FAQ](https://faq.whatsapp.com/en/android/23756533/). This will be a *.txt file
+
+2. Clone/Download the M-file and just run it.
 
 ```
->> makeWhatsappChatWordCloud ('fileName'
+>> makeWhatsappChatWordCloud ('fileName')
 ```
 
 OR 
@@ -28,11 +30,11 @@ MATLAB
 
 * **Gautham Ponnu** - *Initial work* - [Gapo](https://github.com/gapo)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the LGPL v2 - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the LGPL v2 - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
 
